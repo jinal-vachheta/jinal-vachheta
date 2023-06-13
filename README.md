@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jinal-vachheta
+# 👋 Hi, I’m @jinal-vachheta
 - 👀 I’m interested in Programming and full stack development
 - 🌱 I’m currently learning Computer Science
 
